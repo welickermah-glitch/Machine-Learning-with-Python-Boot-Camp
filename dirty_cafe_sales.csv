@@ -1,0 +1,201 @@
+﻿﻿Transaction ID,Item,Quantity,Price Per Unit,Total Spent,Payment Method,Location
+TXN_001,Coffee,2,2.0,4.0,Credit Card,Takeaway
+TXN_002,Cake,4,3.0,12.0,Cash,In-store
+TXN_003,Cookie,4,1.0,ERROR,Credit Card,In-store
+TXN_004,Salad,2,5.0,10.0,UNKNOWN,UNKNOWN
+TXN_005,Coffee,2,2.0,4.0,Digital Wallet,In-store
+TXN_006,Smoothie,5,4.0,20.0,Credit Card,
+TXN_007,UNKNOWN,3,3.0,9.0,ERROR,Takeaway
+TXN_008,Sandwich,4,4.0,16.0,Cash,UNKNOWN
+TXN_009,,5,3.0,15.0,,Takeaway
+TXN_010,Sandwich,5,4.0,20.0,,In-store
+TXN_011,Salad,5,5.0,25.0,Cash,Takeaway
+TXN_012,Sandwich,2,4.0,8.0,Credit Card,Takeaway
+TXN_013,Sandwich,2,4.0,8.0,Cash,In-store
+TXN_014,Cookie,5,1.0,5.0,,Takeaway
+TXN_015,Sandwich,3,4.0,12.0,Cash,In-store
+TXN_016,Juice,2,3.0,6.0,Credit Card,Takeaway
+TXN_017,Tea,4,1.5,6.0,Digital Wallet,In-store
+TXN_018,Coffee,1,2.0,2.0,Cash,Takeaway
+TXN_019,Cake,3,3.0,9.0,Credit Card,In-store
+TXN_020,Cookie,2,1.0,2.0,Digital Wallet,Takeaway
+TXN_021,Salad,1,5.0,5.0,Cash,In-store
+TXN_022,Smoothie,4,4.0,16.0,Credit Card,Takeaway
+TXN_023,Sandwich,5,4.0,20.0,,In-store
+TXN_024,Juice,3,3.0,9.0,Cash,Takeaway
+TXN_025,Tea,2,1.5,3.0,Digital Wallet,In-store
+TXN_026,Coffee,4,2.0,8.0,Credit Card,Takeaway
+TXN_027,Cake,2,3.0,6.0,Cash,In-store
+TXN_028,Cookie,5,1.0,ERROR,Digital Wallet,Takeaway
+TXN_029,Salad,4,5.0,20.0,Credit Card,In-store
+TXN_030,Smoothie,2,4.0,8.0,Cash,Takeaway
+TXN_031,Sandwich,1,4.0,4.0,Digital Wallet,In-store
+TXN_032,Juice,5,3.0,15.0,Credit Card,Takeaway
+TXN_033,Tea,3,1.5,4.5,Cash,In-store
+TXN_034,Coffee,2,2.0,4.0,Digital Wallet,Takeaway
+TXN_035,Cake,5,3.0,15.0,Credit Card,In-store
+TXN_036,Cookie,3,1.0,3.0,Cash,Takeaway
+TXN_037,Salad,2,5.0,10.0,Digital Wallet,In-store
+TXN_038,Smoothie,5,4.0,20.0,Credit Card,Takeaway
+TXN_039,Sandwich,4,4.0,16.0,Cash,In-store
+TXN_040,Juice,1,3.0,3.0,Digital Wallet,Takeaway
+TXN_041,Tea,5,1.5,7.5,Credit Card,In-store
+TXN_042,Coffee,3,2.0,6.0,Cash,Takeaway
+TXN_043,Cake,1,3.0,3.0,Digital Wallet,In-store
+TXN_044,Cookie,4,1.0,4.0,Credit Card,Takeaway
+TXN_045,Salad,5,5.0,25.0,Cash,In-store
+TXN_046,Smoothie,3,4.0,12.0,Digital Wallet,Takeaway
+TXN_047,Sandwich,2,4.0,8.0,Credit Card,In-store
+TXN_048,Juice,4,3.0,12.0,Cash,Takeaway
+TXN_049,Tea,2,1.5,3.0,Digital Wallet,In-store
+TXN_050,Coffee,5,2.0,10.0,Credit Card,Takeaway
+TXN_051,Cake,4,3.0,12.0,Cash,In-store
+TXN_052,Cookie,2,1.0,2.0,Digital Wallet,Takeaway
+TXN_053,Salad,3,5.0,15.0,Credit Card,In-store
+TXN_054,Smoothie,1,4.0,4.0,Cash,Takeaway
+TXN_055,Sandwich,5,4.0,20.0,Digital Wallet,In-store
+TXN_056,Juice,2,3.0,6.0,Credit Card,Takeaway
+TXN_057,Tea,4,1.5,6.0,Cash,In-store
+TXN_058,Coffee,2,2.0,4.0,Digital Wallet,Takeaway
+TXN_059,Cake,3,3.0,9.0,Credit Card,In-store
+TXN_060,Cookie,5,1.0,5.0,Cash,Takeaway
+TXN_061,Salad,1,5.0,5.0,Digital Wallet,In-store
+TXN_062,Smoothie,4,4.0,16.0,Credit Card,Takeaway
+TXN_063,Sandwich,3,4.0,12.0,Cash,In-store
+TXN_064,Juice,5,3.0,15.0,Digital Wallet,Takeaway
+TXN_065,Tea,1,1.5,1.5,Credit Card,In-store
+TXN_066,Coffee,4,2.0,8.0,Cash,Takeaway
+TXN_067,Cake,2,3.0,6.0,Digital Wallet,In-store
+TXN_068,Cookie,1,1.0,1.0,Credit Card,Takeaway
+TXN_069,Salad,4,5.0,20.0,Cash,In-store
+TXN_070,Smoothie,5,4.0,20.0,Digital Wallet,Takeaway
+TXN_071,Sandwich,2,4.0,8.0,Credit Card,In-store
+TXN_072,Juice,3,3.0,9.0,Cash,Takeaway
+TXN_073,Tea,5,1.5,7.5,Digital Wallet,In-store
+TXN_074,Coffee,1,2.0,2.0,Credit Card,Takeaway
+TXN_075,Cake,5,3.0,15.0,Cash,In-store
+TXN_076,Cookie,4,1.0,4.0,Digital Wallet,Takeaway
+TXN_077,Salad,2,5.0,10.0,Credit Card,In-store
+TXN_078,Smoothie,3,4.0,12.0,Cash,Takeaway
+TXN_079,Sandwich,4,4.0,ERROR,Digital Wallet,In-store
+TXN_080,Juice,2,3.0,6.0,Credit Card,Takeaway
+TXN_081,Tea,3,1.5,4.5,Cash,In-store
+TXN_082,Coffee,5,2.0,10.0,Digital Wallet,Takeaway
+TXN_083,Cake,1,3.0,3.0,Credit Card,In-store
+TXN_084,Cookie,5,1.0,5.0,Cash,Takeaway
+TXN_085,Salad,3,5.0,15.0,Digital Wallet,In-store
+TXN_086,Smoothie,2,4.0,8.0,Credit Card,Takeaway
+TXN_087,Sandwich,5,4.0,20.0,Cash,In-store
+TXN_088,Juice,4,3.0,12.0,Digital Wallet,Takeaway
+TXN_089,Tea,2,1.5,3.0,Credit Card,In-store
+TXN_090,Coffee,3,2.0,6.0,Cash,Takeaway
+TXN_091,Cake,4,3.0,12.0,Digital Wallet,In-store
+TXN_092,Cookie,2,1.0,2.0,Credit Card,Takeaway
+TXN_093,Salad,5,5.0,25.0,Cash,In-store
+TXN_094,Smoothie,1,4.0,4.0,Digital Wallet,Takeaway
+TXN_095,Sandwich,3,4.0,12.0,Credit Card,In-store
+TXN_096,Juice,5,3.0,15.0,Cash,Takeaway
+TXN_097,Tea,4,1.5,6.0,Digital Wallet,In-store
+TXN_098,Coffee,2,2.0,4.0,Credit Card,Takeaway
+TXN_099,Cake,3,3.0,9.0,Cash,In-store
+TXN_100,Cookie,1,1.0,1.0,Digital Wallet,Takeaway
+TXN_101,Salad,4,5.0,20.0,Credit Card,In-store
+TXN_102,Smoothie,5,4.0,20.0,Cash,Takeaway
+TXN_103,Sandwich,2,4.0,8.0,Digital Wallet,In-store
+TXN_104,Juice,3,3.0,9.0,Credit Card,Takeaway
+TXN_105,Tea,5,1.5,7.5,Cash,In-store
+TXN_106,Coffee,4,2.0,8.0,Digital Wallet,Takeaway
+TXN_107,Cake,2,3.0,6.0,Credit Card,In-store
+TXN_108,Cookie,5,1.0,5.0,Cash,Takeaway
+TXN_109,Salad,1,5.0,5.0,Digital Wallet,In-store
+TXN_110,Smoothie,4,4.0,16.0,Credit Card,Takeaway
+TXN_111,Sandwich,3,4.0,12.0,Cash,In-store
+TXN_112,Juice,2,3.0,6.0,Digital Wallet,Takeaway
+TXN_113,Tea,1,1.5,1.5,Credit Card,In-store
+TXN_114,Coffee,5,2.0,10.0,Cash,Takeaway
+TXN_115,Cake,4,3.0,12.0,Digital Wallet,In-store
+TXN_116,Cookie,2,1.0,2.0,Credit Card,Takeaway
+TXN_117,Salad,3,5.0,15.0,Cash,In-store
+TXN_118,Smoothie,5,4.0,20.0,Digital Wallet,Takeaway
+TXN_119,Sandwich,1,4.0,4.0,Credit Card,In-store
+TXN_120,Juice,4,3.0,12.0,Cash,Takeaway
+TXN_121,Tea,3,1.5,4.5,Digital Wallet,In-store
+TXN_122,Coffee,2,2.0,4.0,Credit Card,Takeaway
+TXN_123,Cake,5,3.0,15.0,Cash,In-store
+TXN_124,Cookie,4,1.0,4.0,Digital Wallet,Takeaway
+TXN_125,Salad,2,5.0,10.0,Credit Card,In-store
+TXN_126,Smoothie,3,4.0,12.0,Cash,Takeaway
+TXN_127,Sandwich,5,4.0,20.0,Digital Wallet,In-store
+TXN_128,Juice,1,3.0,3.0,Credit Card,Takeaway
+TXN_129,Tea,5,1.5,7.5,Cash,In-store
+TXN_130,Coffee,3,2.0,6.0,Digital Wallet,Takeaway
+TXN_131,Cake,1,3.0,3.0,Credit Card,In-store
+TXN_132,Cookie,5,1.0,5.0,Cash,Takeaway
+TXN_133,Salad,4,5.0,20.0,Digital Wallet,In-store
+TXN_134,Smoothie,2,4.0,8.0,Credit Card,Takeaway
+TXN_135,Sandwich,4,4.0,16.0,Cash,In-store
+TXN_136,Juice,5,3.0,15.0,Digital Wallet,Takeaway
+TXN_137,Tea,2,1.5,3.0,Credit Card,In-store
+TXN_138,Coffee,4,2.0,8.0,Cash,Takeaway
+TXN_139,Cake,3,3.0,9.0,Digital Wallet,In-store
+TXN_140,Cookie,2,1.0,2.0,Credit Card,Takeaway
+TXN_141,Salad,5,5.0,25.0,Cash,In-store
+TXN_142,Smoothie,1,4.0,4.0,Digital Wallet,Takeaway
+TXN_143,Sandwich,3,4.0,12.0,Credit Card,In-store
+TXN_144,Juice,4,3.0,12.0,Cash,Takeaway
+TXN_145,Tea,4,1.5,6.0,Digital Wallet,In-store
+TXN_146,Coffee,2,2.0,4.0,Credit Card,Takeaway
+TXN_147,Cake,5,3.0,15.0,Cash,In-store
+TXN_148,Cookie,3,1.0,3.0,Digital Wallet,Takeaway
+TXN_149,Salad,2,5.0,10.0,Credit Card,In-store
+TXN_150,Sandwich,90,4.0,360.0,Cash,In-store
+TXN_151,Smoothie,4,4.0,16.0,Cash,Takeaway
+TXN_152,Sandwich,2,4.0,8.0,Digital Wallet,In-store
+TXN_153,Juice,3,3.0,9.0,Credit Card,Takeaway
+TXN_154,Tea,5,1.5,7.5,Cash,In-store
+TXN_155,Coffee,1,2.0,2.0,Digital Wallet,Takeaway
+TXN_156,Cake,4,3.0,12.0,Credit Card,In-store
+TXN_157,Cookie,5,1.0,5.0,Cash,Takeaway
+TXN_158,Salad,1,5.0,5.0,Digital Wallet,In-store
+TXN_159,Smoothie,3,4.0,12.0,Credit Card,Takeaway
+TXN_160,Sandwich,5,4.0,20.0,Cash,In-store
+TXN_161,Juice,2,3.0,6.0,Digital Wallet,Takeaway
+TXN_162,Tea,3,1.5,4.5,Credit Card,In-store
+TXN_163,Coffee,5,2.0,10.0,Cash,Takeaway
+TXN_164,Cake,2,3.0,6.0,Digital Wallet,In-store
+TXN_165,Cookie,4,1.0,4.0,Credit Card,Takeaway
+TXN_166,Salad,4,5.0,20.0,Cash,In-store
+TXN_167,Smoothie,5,4.0,20.0,Digital Wallet,Takeaway
+TXN_168,Sandwich,1,4.0,4.0,Credit Card,In-store
+TXN_169,Juice,4,3.0,12.0,Cash,Takeaway
+TXN_170,Tea,2,1.5,3.0,Digital Wallet,In-store
+TXN_171,Coffee,3,2.0,6.0,Credit Card,Takeaway
+TXN_172,Cake,5,3.0,15.0,Cash,In-store
+TXN_173,Cookie,2,1.0,2.0,Digital Wallet,Takeaway
+TXN_174,Salad,3,5.0,15.0,Credit Card,In-store
+TXN_175,Smoothie,1,4.0,4.0,Cash,Takeaway
+TXN_176,Sandwich,4,4.0,16.0,Digital Wallet,In-store
+TXN_177,Juice,5,3.0,15.0,Credit Card,Takeaway
+TXN_178,Tea,4,1.5,6.0,Cash,In-store
+TXN_179,Coffee,2,2.0,4.0,Digital Wallet,Takeaway
+TXN_180,Cake,3,3.0,9.0,Credit Card,In-store
+TXN_181,Cookie,5,1.0,5.0,Cash,Takeaway
+TXN_182,Salad,2,5.0,10.0,Digital Wallet,In-store
+TXN_183,Smoothie,4,4.0,16.0,Credit Card,Takeaway
+TXN_184,Sandwich,3,4.0,12.0,Cash,In-store
+TXN_185,Juice,1,3.0,3.0,Digital Wallet,Takeaway
+TXN_186,Tea,5,1.5,7.5,Credit Card,In-store
+TXN_187,Coffee,4,2.0,8.0,Cash,Takeaway
+TXN_188,Cake,1,3.0,3.0,Digital Wallet,In-store
+TXN_189,Cookie,4,1.0,4.0,Credit Card,Takeaway
+TXN_190,Salad,5,5.0,25.0,Cash,In-store
+TXN_191,Smoothie,2,4.0,8.0,Digital Wallet,Takeaway
+TXN_192,Sandwich,5,4.0,20.0,Credit Card,In-store
+TXN_193,Juice,3,3.0,9.0,Cash,Takeaway
+TXN_194,Tea,2,1.5,3.0,Digital Wallet,In-store
+TXN_195,Coffee,5,2.0,10.0,Credit Card,Takeaway
+TXN_196,Cake,4,3.0,12.0,Cash,In-store
+TXN_197,Cookie,1,1.0,1.0,Digital Wallet,Takeaway
+TXN_198,Salad,3,5.0,15.0,Credit Card,In-store
+TXN_199,Smoothie,5,4.0,20.0,Cash,Takeaway
+TXN_200,Sandwich,2,4.0,8.0,Digital Wallet,In-store
